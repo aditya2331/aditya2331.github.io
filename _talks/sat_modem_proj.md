@@ -4,7 +4,7 @@ collection: talks
 type: "presentation"
 permalink: /talks/sat_modem_proj
 venue: "Remote"
-date: 2024-06-12
+date: 2024-12-06
 location: "IIT Madras"
 ---
 
