@@ -4,7 +4,7 @@ collection: talks
 type: "talk"
 permalink: /talks/mab_bai_talk
 venue: "ESB-222"
-date: 2024-11-06
+date: 2024-11-12
 location: "IIT Madras, Chennai, India"
 ---
 
