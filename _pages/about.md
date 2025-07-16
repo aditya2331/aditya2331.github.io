@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm an incoming MS ECE student at UCSD specializing in Communication Theory and Systems. My research interests revolve around applying ideas and architectures from ML to design the next generation of wireless systems. Prior to joining UCSD, I was an EE undergrad at [IIT Madras](https://www.iitm.ac.in/).
+I am an incoming MS student in the Department of Electrical and Computer Engineering at UCSD, with a specialization in Communication Theory and Systems. My research interests revolve around applying ideas and architectures from Machine Learning to design the next generation of Wireless Systems. Prior to joining UCSD, I was an EE undergrad at [IIT Madras](https://www.iitm.ac.in/).
 
 During my time at IITM, I worked on various topics, including satellite and vehicular communications, medical signal reconstruction and deep learning. I was a part of our international competition team, [Avishkar Hyperloop](https://avishkarhyperloop.com/), where I built embedded systems for hyperloop technologies. I also worked on efficiently scaling LLM pre-training during my summer internship at [Adobe's MDSR Lab](https://adobe.mdsr.live/) and subsequently received a return offer.
 
