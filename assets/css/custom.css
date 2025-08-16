@@ -1,0 +1,10 @@
+/* Custom avatar styles */
+.author__avatar {
+  width: 260px; /* Adjust this value to your liking */
+}
+
+.author__avatar img {
+  border-radius: 0;
+  max-width: 100%; /* This will make the image fill the container */
+  border: 0; /* Remove the border */
+}
